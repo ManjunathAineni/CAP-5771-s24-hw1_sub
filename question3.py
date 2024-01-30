@@ -11,7 +11,7 @@ def question3_3():
     return answer 
 
 def question3_4():
-    answer = ['Cotinuous', 'quantitative', 'ratio']
+    answer = ['continuous', 'quantitative', 'ratio']
     return answer
 
 def question3_5():
